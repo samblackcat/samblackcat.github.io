@@ -1,0 +1,18 @@
+h1{color: black; font-family: 'Slabo 27px', serif;}
+
+.custom-margin-top {
+	margin-top: 20p
+}
+.custom-margin-bottom{
+	margin-bottom: 20p
+}
+.custom-margin-left{
+	margin-left: 40p
+}
+.custom-margin-right{
+	margin-right: 40p
+}
+body{
+	background-image: url("http://www.geo.mtu.edu/weather/aurora/2013/IMG_3515.jpg");
+	 font-family: 'Slabo 27px', serif;
+}
